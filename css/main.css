@@ -1,0 +1,32 @@
+main {
+     display: block;
+   }
+
+  .social-media {
+    padding-top: 25px;
+    }
+
+    i {
+      margin: 20px;
+      color: gray;
+  }
+
+    .fa:hover {
+      color: lightseagreen;
+    }
+
+#profile {
+    height: 200px;
+  }
+
+
+  a {
+text-decoration: none;
+font-family: 'Exo', sans-serif;
+color: lightseagreen;
+font-weight: bold;
+}
+
+a:hover {
+text-decoration: none;
+}
